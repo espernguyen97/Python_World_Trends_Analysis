@@ -2,8 +2,6 @@ World Trends VisualiProjectProject
 
 ![](img/data1.png)
 
-![](img/data2.png)
-
 ![](img/data7.png)
 
 ![](img/data8.png)
