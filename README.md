@@ -1,4 +1,9 @@
-World Trends VisualiProjectProject
+World Trends Visualization Project
+
+<br>
+Dataset:
+<br>
+<br>
 
 ![](img/data1.png)
 
