@@ -1,4 +1,4 @@
-World Trends Visualization Project
+World Trends Analysis Project
 <br>
 <br>
 
