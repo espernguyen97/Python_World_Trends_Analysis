@@ -47,7 +47,7 @@ Summary Of Data:
 
 Request 1:
 
-A scatterplot illustrating Birth Rate and Internet Usage sttistics by Country. The scatterplot is categorised by Countries' Income Groups.
+A scatterplot illustrating Birth Rate and Internet Usage statistics by Country. The scatterplot is categorised by Countries' Income Groups.
 <br>
 <br>
 
