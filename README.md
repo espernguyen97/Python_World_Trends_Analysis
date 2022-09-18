@@ -96,7 +96,7 @@ The data is provided for 2 years: 1960 and 2013 and there's a need to produce a 
 Summary Of Data:
 <br>
 <br>
-![](img/data12.png)
+![](img/data11.png)
 <br>
 <br>
 Scatterplot
