@@ -79,8 +79,6 @@ Scatterplot:
 ![](img/data10.png)
 <br>
 <br> 
-<br>
-<br>
 Task 3:
 
 A  scatterplot depicting Life Expectancy (y-axis) and Fertility Rate (x-axis) statistics by Country.
