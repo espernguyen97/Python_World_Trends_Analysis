@@ -36,7 +36,6 @@ Task 4: An insights into how the periods compare.
 
 <hr>
 
-Dataset:
 <br>
 <br>
 
@@ -92,8 +91,6 @@ The scatterplot is categorised by Countries Regions.
 <br>
 The data is provided for 2 years: 1960 and 2013 and there's a need to produce a visualisation for each of these years.
 <br>
-<br>
-![](img/data11.png)
 <br>
 <br>
 Summary Of Data:
