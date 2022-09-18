@@ -99,7 +99,13 @@ Summary Of Data:
 ![](img/data11.png)
 <br>
 <br>
-Scatterplot
+Scatterplot for the year 1960 
 <br>
 <br>
 ![](img/data13.png)
+<br>
+<br>
+Scatterplot for the year 2013 
+<br>
+<br>
+![](img/data14.png)
