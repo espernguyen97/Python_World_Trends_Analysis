@@ -3,7 +3,11 @@ World Trends Analysis Project
 <br>
 1. About the data: 
 
-The data 
+The project provided by  . The data contains the data of Countries Name, Country Code, 	Birth rate,	 Internet users, 	Income Group. Some data has been provided in a CSV file, some in Python lists. The CSV file contains combined data for both years 1960 and 2013. 
+
+2. Goal: 
+
+Using Python to perform data manipulation and analyze the world trends in different time periods based off the historical data given.
 
 3. What are the task given?: 
 
@@ -23,7 +27,6 @@ Task 3:
 
 A visualization based off the data for 2 years: 1960 and 2013.
 
-Some data has been provided in a CSV file, some in Python lists. The CSV file contains combined data for both years. All data manipulations have to be performed in Python (not in Excel) because this project can be audited at the later stage.
 
 Task 4: An insights into how the periods compare.
 
@@ -79,6 +82,8 @@ Scatterplot:
 <br> 
 <br>
 <br>
+Task 3:
+
 A  scatterplot depicting Life Expectancy (y-axis) and Fertility Rate (x-axis) statistics by Country.
 <br>
 <br>
