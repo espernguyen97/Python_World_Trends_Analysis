@@ -3,7 +3,7 @@ World Trends Analysis Project
 <br>
 1. About the data: 
 
-The project provided by SuperDataScience. The dataset contains the data of 196 Countries along with their Country Code, 	Birth rate,	 Internet users, 	Income Group. Some data has been provided in a CSV file, some in Python lists. The CSV file contains combined data for both years 1960 and 2013. 
+The project was provided by SuperDataScience website. The dataset contains the data of 196 Countries along with their Country Code, 	Birth rate,	 Internet users, 	Income Group. Some data has been provided in a CSV file, some in Python lists. The CSV file contains combined data for both years 1960 and 2013. 
 
 2. Goal: 
 
