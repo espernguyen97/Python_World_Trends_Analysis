@@ -1,29 +1,31 @@
 World Trends Analysis Project
 <br>
 <br>
+1. About the data: 
 
-Challenge: 
+The data 
 
-The world bank was very impressed with your deliverables on previous project and they have a new project for you.
+3. What are the task given?: 
 
+Through the data given, I'm looking for:
 
-Task 1: You are required to produce a scatterplot illustrating Birth Rate and Internet Usage statistics by Country.
+Task 1: A  scatterplot illustrating Birth Rate and Internet Usage statistics by Country.
 
 The scatterplot need to be categorised by Countries’ Income Groups
 
 Task 2:
 
-You are required to product a scatterplot depicting Life Expectancy (y-axis) and Fertility Rate (x-axis) statistics by Country.
+A scatterplot depicting Life Expectancy (y-axis) and Fertility Rate (x-axis) statistics by Country.
 
 The scatterplot need to be categrorised by Countries Regions.
 
 Task 3:
 
-You have been supplied with data for 2 years: 1960 and 2013 and you are required to product a visualization for each of these years.
+A visualization based off the data for 2 years: 1960 and 2013.
 
 Some data has been provided in a CSV file, some in Python lists. The CSV file contains combined data for both years. All data manipulations have to be performed in Python (not in Excel) because this project can be audited at the later stage.
 
-You also have been requested to provide insights into how the periods compare.
+Task 4: An insights into how the periods compare.
 
 <br>
 
@@ -45,7 +47,6 @@ Summary Of Data:
 
 ![](img/data7.png)
 
-Request 1:
 
 A scatterplot illustrating Birth Rate and Internet Usage statistics by Country. The scatterplot is categorised by Countries' Income Groups.
 <br>
@@ -54,7 +55,7 @@ A scatterplot illustrating Birth Rate and Internet Usage statistics by Country. 
 ![](img/data8.png)
 <br>
 <br>
-Request 2:
+Task 2:
 <br>
 <br>
 A second scatterplot also illustrating Birth Rate and Internet Usage statistics by Country.
@@ -75,8 +76,7 @@ Scatterplot:
 <br>
 ![](img/data10.png)
 <br>
-<br>
-Request 3: 
+<br> 
 <br>
 <br>
 A  scatterplot depicting Life Expectancy (y-axis) and Fertility Rate (x-axis) statistics by Country.
